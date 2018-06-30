@@ -1,0 +1,10 @@
+.gameSpace {
+    margin: 0 15% 125px 15%;
+}
+
+.flexGrid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px;  
+}

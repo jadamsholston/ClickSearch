@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 import './App.css';
-import Wrapper from './components/Wrapper/Wrapper';
-import Header from './components/Header/Header';
-import Footer from './components/Footer/Footer';
-import Jumbo from './components/Jumbo/Jumbo'
-import Images from './components/Images/Image';
-import GameSpace from './components/GameSpace/GameSpace';
+import Wrapper from './components/Wrapper/wrapper';
+import Header from './components/Header/header';
+import Footer from './components/Footer/footer';
+import Jumbo from './components/Jumbo/jumbo'
+import Images from './components/Images/images';
+import GameSpace from './components/GameSpace/gamespace';
 
 class App extends Component {
     
